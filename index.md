@@ -7,19 +7,19 @@ His research interests include analysis of high-dimensional data, heterogeneity 
 E-mail: <renmingyang17@mails.ucas.ac.cn>
 
 ## Journal Publications
-- **Gaussian graphical model-based heterogeneity analysis via penalized fusion**
-\textbf{Mingyang Ren}, Sanguo Zhang, Qingzhao Zhang \& Shuangge Ma  
-{\it Biometrics}, 2021, Accepted.
-- **[Robust high-dimensional regression for data with anomalous responses](https://doi.org/10.1007/s10463-020-00764-1)**
-\textbf{Mingyang Ren}, Sanguo Zhang \& Qingzhao Zhang
-{\it Annals of the Institute of Statistical Mathematics}, 2020.
-- **[Empirical Likelihood Test for Regression Coefficients in High Dimensional Partially Linear Models](https://doi.org/10.1007/s11424-020-9260-3)**
-Yan Liu, \textbf{Mingyang Ren} \& Sanguo Zhang
-{\it Journal of Systems Science and Complexity}, 2020.
-- **Robust ordinal mislabel logistic regression based on $\gamma$-divergence**
-Meijun Guo, \textbf{Mingyang Ren}, Shiming Li \& Sanguo Zhang
-{\it Journal of University of Chinese Academy of Sciences}, 2020, Accepted.
-- **[Effectiveness of Myopia Prediction Model in Screening Children and Teenager Myopia](http://rs.yiigle.com/CN115989201904/1129307.htm)**
-Shiming Li, \textbf{Mingyang Ren}, Sanguo Zhang, He Li, Luoru Liu, Ningli Wang
-{\it Chinese Journal of Experimental Ophthalmology}, 2019, 37(4): 269-273.
+- Gaussian graphical model-based heterogeneity analysis via penalized fusion  
+**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang \& Shuangge Ma  
+*Biometrics*, 2021, Accepted.
+- [Robust high-dimensional regression for data with anomalous responses](https://doi.org/10.1007/s10463-020-00764-1)  
+**Mingyang Ren**, Sanguo Zhang \& Qingzhao Zhang  
+*Annals of the Institute of Statistical Mathematics*, 2020.
+- [Empirical Likelihood Test for Regression Coefficients in High Dimensional Partially Linear Models](https://doi.org/10.1007/s11424-020-9260-3)  
+Yan Liu, **Mingyang Ren** \& Sanguo Zhang  
+*Journal of Systems Science and Complexity*, 2020.
+- Robust ordinal mislabel logistic regression based on $\gamma$-divergence  
+Meijun Guo, **Mingyang Ren**, Shiming Li \& Sanguo Zhang  
+*Journal of University of Chinese Academy of Sciences*, 2020, Accepted.
+- [Effectiveness of Myopia Prediction Model in Screening Children and Teenager Myopia](http://rs.yiigle.com/CN115989201904/1129307.htm)  
+Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu, Ningli Wang  
+*Chinese Journal of Experimental Ophthalmology*, 2019, 37(4): 269-273.  
 
