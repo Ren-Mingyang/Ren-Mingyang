@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Mingyang Ren's homepage!
 
-You can use the [editor on GitHub](https://github.com/Ren-Mingyang/Ren-Mingyang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Mingyang Ren is currently a Ph.D. candidate (Sep. 2017 - Current) in statistics from [School of Mathematics Sciences](https://math.ucas.ac.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) advised by Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang). He was a visiting scholar (Dec. 2019 - Dec. 2020) in Department of Biostatistics at [Yale School of Public Health](https://publichealth.yale.edu/) mentored by [Shuangge Ma](https://publichealth.yale.edu/profile/shuangge_ma/). He received the B.S. degree in Mathematics (Mathematics Base Class) from Wuhan University, in Jun. 2017. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+His research interests include analysis of high-dimensional data, heterogeneity analysis, robust statistics, and biostatistics. Previously, he worked on analysis of high-dimensional heterogeneous data.
 
-### Markdown
+E-mail: <renmingyang17@mails.ucas.ac.cn>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Journal Publications
+- **Gaussian graphical model-based heterogeneity analysis via penalized fusion**
+\textbf{Mingyang Ren}, Sanguo Zhang, Qingzhao Zhang \& Shuangge Ma  
+{\it Biometrics}, 2021, Accepted.
+- **[Robust high-dimensional regression for data with anomalous responses](https://doi.org/10.1007/s10463-020-00764-1)**
+\textbf{Mingyang Ren}, Sanguo Zhang \& Qingzhao Zhang
+{\it Annals of the Institute of Statistical Mathematics}, 2020.
+- **[Empirical Likelihood Test for Regression Coefficients in High Dimensional Partially Linear Models](https://doi.org/10.1007/s11424-020-9260-3)**
+Yan Liu, \textbf{Mingyang Ren} \& Sanguo Zhang
+{\it Journal of Systems Science and Complexity}, 2020.
+- **Robust ordinal mislabel logistic regression based on $\gamma$-divergence**
+Meijun Guo, \textbf{Mingyang Ren}, Shiming Li \& Sanguo Zhang
+{\it Journal of University of Chinese Academy of Sciences}, 2020, Accepted.
+- **[Effectiveness of Myopia Prediction Model in Screening Children and Teenager Myopia](http://rs.yiigle.com/CN115989201904/1129307.htm)**
+Shiming Li, \textbf{Mingyang Ren}, Sanguo Zhang, He Li, Luoru Liu, Ningli Wang
+{\it Chinese Journal of Experimental Ophthalmology}, 2019, 37(4): 269-273.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ren-Mingyang/Ren-Mingyang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
