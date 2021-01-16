@@ -1,6 +1,6 @@
 ## Welcome to Mingyang Ren's homepage!
 
-Mingyang Ren is currently a Ph.D. candidate (Sep. 2017 - Current) in statistics from [School of Mathematics Sciences](https://math.ucas.ac.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) advised by Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang). He was a visiting scholar (Dec. 2019 - Dec. 2020) in Department of Biostatistics at [Yale School of Public Health](https://publichealth.yale.edu/) mentored by [Shuangge Ma](https://publichealth.yale.edu/profile/shuangge_ma/). He received the B.S. degree in Mathematics (Mathematics Base Class) from Wuhan University, in Jun. 2017. 
+Mingyang Ren is currently a Ph.D. candidate (Sep. 2017 - Current) in statistics from [School of Mathematics Sciences](https://math.ucas.ac.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) advised by Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang). He was a visiting scholar (Dec. 2019 - Dec. 2020) in Department of Biostatistics at [Yale School of Public Health](https://publichealth.yale.edu/) mentored by [Shuangge Ma](https://publichealth.yale.edu/profile/shuangge_ma/). He received the B.S. degree in Mathematics (Mathematics Base Class) from [School of Mathematics and Statistics, Wuhan University](http://maths.whu.edu.cn/), in Jun. 2017. 
 
 His research interests include analysis of high-dimensional data, heterogeneity analysis, robust statistics, and biostatistics. Previously, he worked on analysis of high-dimensional heterogeneous data.
 
