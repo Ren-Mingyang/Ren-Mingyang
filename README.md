@@ -1,3 +1,5 @@
 ### Welcome!
 
-Mingyang Ren is currently a Ph.D. candidate in Statistics from University of Chinese Academy of Sciences. He received the B.S. degree in Mathematics (Mathematics Base Class) from Wuhan University, China, in Jun. 2017. His research interests include analysis of high-dimensional data, heterogeneity analysis, robust statistics, and biostatistics.
+Mingyang Ren is currently a Postdoctoral Fellow in the Department of Statistics at The Chinese University of Hong Kong. 
+He received the PhD degree in in Statistics from School of Mathematics Sciences, University of Chinese Academy of Sciences and the B.S. degree in Mathematics (Mathematics Base Class) from School of Mathematics and Statistics, Wuhan University. 
+His current research interests include analysis of high-dimensional data, graphical model, network analysis, biostatistics, statistical machine learning.
